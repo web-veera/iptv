@@ -1,33 +1,85 @@
-#EXTINF:-1,IN:Sun TV
-http://mag.you24.online:8080/77u5l9w2o9f/guO65NmA4/3974
-#EXTINF:-1,IN:Vijay TV
-http://mag.you24.online:8080/77u5l9w2o9f/guO65NmA4/5545
-#EXTINF:-1,IN:Sun music
-http://uk1.zecast.com:1935/star-live/smusic/chunklist_w2139407510.m3u8
-#EXTINF:-1,IN:Jaya TV
-http://mag.you24.online:8080/77u5l9w2o9f/guO65NmA4/5583
-#EXTINF:-1,IN:JayaMax
-http://mag.you24.online:8080/77u5l9w2o9f/guO65NmA4/5582
-#EXTINF:-1,IN:jayamovies
-https://catchup.yuppcdn.net/amazonv2/20/preview/jayamovies/master/master.m3u8
-#EXTINF:-1,IN:Raj Tv
-http://mag.you24.online:8080/77u5l9w2o9f/guO65NmA4/5552
-#EXTINF:-1,IN:Raj digital+
-http://mag.you24.online:8080/77u5l9w2o9f/guO65NmA4/5551
+#EXTINF:-1,IN:Sun TV HD
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=14020
+#EXTINF:-1,IN:K TV HD
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26566
+#EXTINF:-1,IN:Colors Tamil HD
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Colors_Tamil_HD
+#EXTINF:-1,IN:Zee Tamil
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Zee_Tamil
+#EXTINF:-1,IN:Zee Tamil HD
+https://iptv.airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeetamil
+#EXTINF:-1,IN:Zee THIRAI
+https://iptv.airtelindia.cf/zee5/zee5.m3u8?id=0-9-224
+#EXTINF:-1,IN:Jaya TV HD
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Jaya_TV_HD
+#EXTINF:-1,IN:J movies
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=J_Movies
+#EXTINF:-1,IN:Sun life
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26569
+#EXTINF:-1,IN:ADITHYA
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9023
+#EXTINF:-1,IN:Kalaignar
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Kalaignar_TV
 #EXTINF:-1,IN:CaptainTV
 https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_288p/index.m3u8
+#EXTINF:-1,IN:Sun music HD
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9013
+#EXTINF:-1,IN:ISAIARUVI
+https://iptv.airtelindia.cf/7star/api.m3u8?id=146
+#EXTINF:-1,IN:Gemini music HD
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26568
+#EXTINF:-1,IN:surya music HD
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26575
+#EXTINF:-1,IN:udhaya HD
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9022
+#EXTINF:-1,IN:JayaMax
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Jaya_Max
+#EXTINF:-1,IN:MK_Music
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=MK_Music
+#EXTINF:-1,IN:Raj_Musix
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Raj_Musix
+#EXTINF:-1,IN:IBC_Isai
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN:Tunes6
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+#EXTINF:-1,IN:Sun news
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=38926
 #EXTINF:-1,IN:ThanthiTV
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8
+#EXTINF:-1,IN:News7_Tamil
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=News7_Tamil
 #EXTINF:-1,IN:news18tamil
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
-#EXTINF:-1,IN:polimernews
-https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,IN:Malai_Murasu
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Malai_Murasu
 #EXTINF:-1,IN:puthiyathalaimurai
 http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,IN:Jaya_Plus
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Jaya_Plus
+#EXTINF:-1,IN:Kalaignar_Seithigal
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Kalaignar_Seithigal_
 #EXTINF:-1,IN:ibctamil
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1,IN:Win_TV
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Win_TV
+#EXTINF:-1,IN:MK_TV
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=MK_TV
+#EXTINF:-1,IN:Polimer
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Polimer_TV
+#EXTINF:-1,IN:Raj_TV
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Raj_TV
+#EXTINF:-1,IN:Raj_Digital_Plus
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Raj_Digital_Plus
+#EXTINF:-1,IN:Moon_Tv
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Moon_Tv
+#EXTINF:-1,IN:Makkal
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Makkal_TV
+#EXTINF:-1,IN:Vasanth_TV
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Vasanth_TV
 #EXTINF:-1,IN:jayamplus
 http://198.144.149.82:8080/NOTV/JEYAMTVPLUS/index.m3u8?token=GTR
+#EXTINF:-1,IN:3TamilTV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1,IN:VendarTV
 https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_480p/index.m3u8
 #EXTINF:-1,IN:suryalocal
@@ -50,10 +102,6 @@ http://bmlive.net:8000/digitaltv/digitaltv/bms.m3u8
 http://bmlive.net:8000/mytvtn/mytv/bms.m3u8
 #EXTINF:-1,IN:tdcto
 http://live.singamcloud.in:1935/applemusic/applemusic/chunklist_w422916913.m3u8
-#EXTINF:-1,IN:srmusix
-http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
-#EXTINF:-1,IN:mptv
-http://nextgeninfotech.ddns.net:8080/mptv/mptv.m3u8
 #EXTINF:-1,IN:gta_tamil
 http://142.44.213.115:8888//gta_tamil//index.m3u8
 #EXTINF:-1,IN:yupp
@@ -62,31 +110,77 @@ http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
 http://site1.ultramaxnet.com:80/client/hls/namma-ooru-tv/kavintv/index.m3u8
 #EXTINF:-1,IN:DDPodhigai
 https://m-c15-j2apps.s.llnwi.net/hls/0250.DDPodhigai.in_480p/index.m3u8
-#EXTINF:-1,IN:IBC_Isai
-https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
-#EXTINF:-1,IN:Tunes6
-https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
 #EXTINF:-1,IN:starmoviesHD
 http://103.153.39.36:8000/play/a00v
+#EXTINF:-1,IN:Soney Pix
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Sony_Pix_HD
 #EXTINF:-1,IN:&flix
 http://103.153.39.36:8000/play/a00p
+#EXTINF:-1,IN:&PICTURES
+https://iptv.airtelindia.cf/zee5/zee5.m3u8?id=0-9-tvpictureshd
 #EXTINF:-1,IN:MoviesNow
 http://103.153.39.36:8000/play/a01i
-#EXTINF:-1,IN:Pix HD
-http://mag.you24.online:8080/77u5l9w2o9f/guO65NmA4/10607
+#EXTINF:-1,IN:MN+
+https://live.durbinlive.com/hls/mn+.m3u8
 #EXTINF:-1,IN:NGO wild
 http://103.153.39.36:8000/play/a00i
 #EXTINF:-1,IN:NGO
 http://103.153.39.36:8000/play/a00x
+#EXTINF:-1,IN:Animal_Planet_HD
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Animal_Planet_HD
+#EXTINF:-1,IN:D tamil
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Discovery_Channel_Tamil
+#EXTINF:-1,IN:History_18_Tamil
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=History_18_Tamil
 #EXTINF:-1,IN:soney Ten1
-http://103.153.39.36:8000/play/a00e
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Ten_1
 #EXTINF:-1,IN:soney Ten2
-http://103.153.39.36:8000/play/a01a
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Ten_2
 #EXTINF:-1,IN:soney Ten3
-http://103.153.39.36:8000/play/a00k
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Ten_3
+#EXTINF:-1,IN:soney Ten_4_HD
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Ten_4_HD_Tamil
 #EXTINF:-1,IN:star sports1
 http://103.153.39.36:8000/play/a00c
 #EXTINF:-1,IN:star sports2
 http://103.153.39.36:8000/play/a00d
 #EXTINF:-1,IN:hungama
 http://103.153.39.36:8000/play/a01x
+#EXTINF:-1,IN:Nick
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Nick_Tamil
+#EXTINF:-1,IN:Pogo
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Pogo_Tamil
+#EXTINF:-1,IN:Cartoon_Network
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Cartoon_Network_Tamil
+#EXTINF:-1,IN:sonic_Tamil
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=sonic_Tamil
+#EXTINF:-1,IN:Discovery_Kids_Tamil
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=Discovery_Kids_Tamil
+#EXTINF:-1,IN:CN+
+https://iptv.airtelindia.cf/jiotv/m3u8.m3u8?c=CN_HD_Tamil
+#EXTINF:-1,IN:Gemini
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=14019
+#EXTINF:-1,IN:Gemini movies
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26570
+#EXTINF:-1,IN:Gemini COMEDY
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9027
+#EXTINF:-1,IN:Gemini life
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26572
+#EXTINF:-1,IN:Zee telugu
+https://iptv.airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeetelugu
+#EXTINF:-1,IN:suryatv
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26574
+#EXTINF:-1,IN:Surya movies
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9019
+#EXTINF:-1,IN:Surya COMEDY
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=30835
+#EXTINF:-1,IN:Zee keralam
+https://iptv.airtelindia.cf/zee5/zee5.m3u8?id=0-9-129
+#EXTINF:-1,IN:udhaya
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=30846
+#EXTINF:-1,IN:udhaya movies
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=26576
+#EXTINF:-1,IN:udhaya comedy
+https://iptv.airtelindia.cf/sunnxt/sunnxt.m3u8?id=9014
+#EXTINF:-1,IN:Zee kannada
+https://iptv.airtelindia.cf/zee5/zee5.m3u8?id=0-9-zeekannada
